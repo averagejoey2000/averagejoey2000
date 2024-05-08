@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @averagejoey2000
-- 👀 I’m interested in Maritime Technology, Hospitality
-- 🌱 I’m currently learning Rstudio
-- 💞️ I’m looking to collaborate on Recipes
+- 👀 I’m a 3rd Mate
+- 🌱 I’m currently learning LaTeX
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me averagejoey2000@tfwno.gf
 
 <!---
