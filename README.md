@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @averagejoey2000
 - 👀 I’m a 3rd Mate
 - 🌱 I’m currently learning LaTeX
-- 💞️ I’m not looking to collaborate
+- 💞️ I'm looking to collaborate on writing publicly available resources for navigation and safety
 - 📫 How to reach me averagejoey2000@tfwno.gf
 
 <!---
